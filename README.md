@@ -1,8 +1,8 @@
 # Hi, I'm Svitlana 👋
 
-**QA Engineer** · San Jose, CA · 7+ years across SaaS, Mobile & AI Systems
+**QA Engineer** · San Jose, CA
 
-I build test automation frameworks from scratch and validate AI-driven products — from multi-agent platforms to robotic systems.
+7+ years finding bugs before your users do. SaaS · Mobile · AI · Robotics.
 
 ---
 
@@ -29,17 +29,19 @@ I build test automation frameworks from scratch and validate AI-driven products 
 
 ## 📌 Background
 
-- **Wix** (6 years) — built automation from 0 to 82% regression coverage; published on Wix Engineering Blog
+- **Wix** — built automation from 0 to 82% regression coverage; published on Wix Engineering Blog
 - **Blull** — QA from scratch for a multi-agent AI platform (prompt injection, API, LLM validation)
 - **Robotics NDA** — 100+ hours teleoperation data collection and AI model validation for robotic arm
 - **Playtika · Luxoft** — mobile, backend, fintech QA
 
 ---
 
-## 🎓 Currently
+## 🎓 Education
 
-- CS coursework @ Foothill College & De Anza College
-- Code in Place: Python — Stanford University (2025)
+- M.Sc. Civil Engineering (STEM) — Kyiv National University of Construction and Architecture
+- Computer Science coursework — Foothill College & De Anza College
+- Code in Place: Python — Stanford University
+- Guest Judge — AI Hackathon "From Job Loss to Job Shift"
 - Volunteer @ Chabot Space & Science Center
 
 ---
